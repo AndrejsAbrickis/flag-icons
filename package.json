@@ -1,0 +1,18 @@
+{
+  "name": "flag-icons",
+  "version": "1.0.0",
+  "description": "GoSquared's Flag Icon Set",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrejsAbrickis/flag-icons.git"
+  },
+  "keywords": [
+    "flags"
+  ],
+  "author": "Andrejs Abrickis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrejsAbrickis/flag-icons/issues"
+  },
+  "homepage": "https://github.com/AndrejsAbrickis/flag-icons#readme"
+}
