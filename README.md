@@ -1,19 +1,22 @@
-# GoSquared's Flag Icon Set
+## yarn and npm ready
 
-Here you'll find all the files available in our [flag icon set][1] and the tools we use to generate the downloadable file.
+To install this package execute `yarn add flag-icons` or `npm install flag-icons`
+
+----------
+
+### GoSquared's Flag Icon Set
+
+Hughe thank you to GoSquared for making this icon set. I just cloned their repo to create a npm package.
+
+Here you'll find all the files available in [GoSquared's Flag Icon Set][1] and the tools useed to generate the downloadable file.
 
 If you have any comments, corrections or additions then let us know with an issue or pull request
 
-## Coming soon
-
- * More flags
- * Flag sprites along with accompanying CSS/SCSS/SASS and tools to generate them
-
-## License and Usage
+### License and Usage
 
 MIT, see LICENSE.txt
 
-## Building your own version of the icon set
+### Building your own version of the icon set
 
 If you want to build your own version of this flag set, with any additions or modifications, just edit the files in `src/flags`. Each flag has its own folder, and inside each folder there is one PNG file for each size of the flag. Also in each folder is a file called `code`, which contains the ISO-3166-2 country code for the flag.
 
