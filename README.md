@@ -6,7 +6,7 @@ To install this package execute `yarn add flag-icons` or `npm install flag-icons
 
 ### GoSquared's Flag Icon Set
 
-Hughe thank you to GoSquared for making this icon set. I just cloned their repo to create a npm package.
+Huge thank you to GoSquared for making this icon set. I just cloned their repo to create a npm package.
 
 Here you'll find all the files available in [GoSquared's Flag Icon Set][1] and the tools useed to generate the downloadable file.
 
